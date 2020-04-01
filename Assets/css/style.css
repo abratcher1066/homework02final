@@ -1,0 +1,71 @@
+
+html, body, {
+  position:fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
+
+
+html{
+    width:100%;
+    height:100%;
+
+}
+
+body{
+    width:100%;
+    height:100%;
+
+}
+
+p {
+  font-size: 16px;
+  font-family: 'Martel', serif;
+  line-height: 1.5rem;
+}
+
+img {
+  width: auto;
+  border-radius: 16px;
+  }
+}
+
+.my-image-style {
+  float: left;
+  width: 5%;
+  height: auto;
+  border-radius: 20%;
+}
+
+.card-title {
+  border-bottom: 2px solid rgba(135, 117, 158, 0.514);
+  font-family: 'Martel', serif;
+  font-size: 25px;
+  color: rgb(46, 40, 40);
+}
+
+.body-all {
+  background-color: rgb(237, 221, 250);
+}
+
+.card {
+  opacity: 99%;
+}
+
+.navbar {
+  opacity: 99%;
+}
+
+.navbar-brand {
+  background-color: #9068b8;
+  opacity: 99%;
+ 
+}
+
+body {
+      background-image: url('../images/background.jpg');
+      background-attachment: fixed;
+      background-size: cover;
+    }
